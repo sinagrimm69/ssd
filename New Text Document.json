@@ -21,7 +21,7 @@
       "pre_shared_key": "",
       "private_key": "wDJKNnz017yiPwrgCi63D4+XS2RHYVskm45rF++XF3o=",
       "reserved": "to++",
-      "server": "162.159.196.93",
+      "server": "162.159.195.93",
       "server_port": 2506,
       "fake_packets": "5-10"
     },
@@ -36,7 +36,7 @@
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "private_key": "0IJXtQfeSiaemFuMgHtQ4TRlO7sllte1MAvJ9ErzlW0=",
       "reserved": "ZmdS",
-      "server": "162.159.196.93",
+      "server": "162.159.195.93",
       "server_port": 2506,
       "fake_packets": "5-10"
     }
