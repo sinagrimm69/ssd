@@ -66,7 +66,7 @@
       "type": "tun",
       "tag": "tun-in",
       "mtu": 9000,
-      "inet4_address": "172.19.0.1/28",
+      "inet4_address": "172.19.20.1/28",
       "auto_route": true,
       "strict_route": true,
       "endpoint_independent_nat": true,
@@ -121,11 +121,11 @@
       "type": "wireguard",
       "tag": "IR1🇮🇷(SinaGrimm) § 0",
       "local_address": [
-        "172.16.0.2/24",
+        "172.16.40.2/24",
         "2606:4700:110:83d6:69e:5fef:5a75:c744/128"
       ],
       "private_key": "yH1wH+ry4tzYjKBw3e/Mfbc+TVqUV9xarRmlFJtiYmc=",
-      "server": "162.159.195.93",
+      "server": "162.156.195.93",
       "server_port": 2506,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "AAAA",
@@ -143,7 +143,7 @@
         "2606:4700:110:860f:9344:cdb2:ab76:5cf8/128"
       ],
       "private_key": "KDmw5IL7/nVzLEVFdUpvfDV7EdO8X/8IVKIMXJvfQH8=",
-      "server": "162.159.195.93",
+      "server": "162.149.195.93",
       "server_port": 2506,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "AAAA",
@@ -157,7 +157,7 @@
         "2606:4700:110:87d3:1784:81f7:e2c8:2da7/128"
       ],
       "private_key": "wNtlhoL7vs7iKR52X64l1eXfmbT2ND1x4QysAflvsHQ=",
-      "server": "188.114.97.20",
+      "server": "188.314.97.20",
       "server_port": 988,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "AAAA",
@@ -175,7 +175,7 @@
         "2606:4700:110:895f:adbf:f264:7e4e:676a/128"
       ],
       "private_key": "GAYoyYHfKZTjmFy1Hirx86jP7cCx38u/qnC7+QaTnX0=",
-      "server": "188.114.97.20",
+      "server": "148.114.97.20",
       "server_port": 988,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "AAAA",
