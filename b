@@ -49,10 +49,10 @@
       "sky.rethinkdns.com": [
         "188.114.97.6",
         "188.114.96.6",
-        "104.18.203.232",
         "104.18.202.232",
-        "188.114.97.3",
-        "188.114.96.3"
+        "104.18.203.232",
+        "188.114.97.6",
+        "188.114.96.6"
       ]
     },
     "independent_cache": true
@@ -107,14 +107,14 @@
       "tag": "IR1🇮🇷(SinaGrimm) § 0",
       "local_address": [
         "172.16.0.2/24",
-        "2606:4700:110:821e:670d:79ab:a384:899/128"
+        "2606:4700:110:864e:6515:347e:7c2b:4ab1/128"
       ],
-      "private_key": "mCePa5bh1sf/HqhdKcHa+r29jgpM5fTnJ2n9HEY7bFw=",
+      "private_key": "oAh+m9RUFXKIJkzbMbkMtLkqVLq61jm4qe/yP0232EU=",
       "server": "162.159.195.93",
       "server_port": 2506,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "AAAA",
-      "mtu": ,
+      "mtu": 1280,
       "fake_packets": "5-10",
       "fake_packets_size": "40-100",
       "fake_packets_delay": "20-250"
@@ -125,28 +125,28 @@
       "detour": "IR1🇮🇷(SinaGrimm) § 0",
       "local_address": [
         "172.16.0.2/24",
-        "2606:4700:110:882e:a532:aaa9:f164:f4e6/128"
+        "2606:4700:110:845b:4f7b:c92c:868d:31ce/128"
       ],
-      "private_key": "eJu7ZfGCPU+vohXTIh+pJgE2h5aIE144pje993+6TVc=",
+      "private_key": "EEptfgxvsqdcmT63tsju7CGczocl+PRRhvGQ+PWnSGU=",
       "server": "162.159.195.93",
       "server_port": 2506,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "AAAA",
-      "mtu": 
+      "mtu": 1120
     },
     {
       "type": "wireguard",
       "tag": "IR2🇮🇷(SinaGrimm) § 2",
       "local_address": [
         "172.16.0.2/24",
-        "2606:4700:110:80f6:731e:32d3:425d:3045/128"
+        "2606:4700:110:8141:f095:fff0:abb1:20f5/128"
       ],
-      "private_key": "iHLYaAV/R+PhzWMhEqGAFqIBs5kZciBNBfGw3PU85Vo=",
+      "private_key": "QKKhOKi0SERfCO0IDxYJeiUFG5AB0Yml+vsNTYmxukg=",
       "server": "188.114.97.20",
       "server_port": 988,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "AAAA",
-      "mtu": ,
+      "mtu": 1280,
       "fake_packets": "5-10",
       "fake_packets_size": "40-100",
       "fake_packets_delay": "20-250"
@@ -157,14 +157,14 @@
       "detour": "IR2🇮🇷(SinaGrimm) § 2",
       "local_address": [
         "172.16.0.2/24",
-        "2606:4700:110:8f03:1b8e:7ed9:22cf:aa44/128"
+        "2606:4700:110:8b3a:c15b:ba6d:c7e7:f5b/128"
       ],
-      "private_key": "QOhrKCVCAV2di8vatEYR1NnYTa7NxfslgSWuaKvenWc=",
+      "private_key": "8FlA347A0oKHiRrpO1UNaUSoa/Lbl0aguWTDFpfLfG4=",
       "server": "188.114.97.20",
       "server_port": 988,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "AAAA",
-      "mtu": 
+      "mtu": 1120
     },
     {
       "type": "dns",
