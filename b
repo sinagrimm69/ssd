@@ -114,7 +114,7 @@
       "server_port": 2506,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "AAAA",
-      "mtu": 4000,
+      "mtu": ,
       "fake_packets": "5-10",
       "fake_packets_size": "40-100",
       "fake_packets_delay": "20-250"
@@ -132,7 +132,7 @@
       "server_port": 2506,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "AAAA",
-      "mtu": 4000
+      "mtu": 
     },
     {
       "type": "wireguard",
@@ -146,7 +146,7 @@
       "server_port": 988,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "AAAA",
-      "mtu": 4000,
+      "mtu": ,
       "fake_packets": "5-10",
       "fake_packets_size": "40-100",
       "fake_packets_delay": "20-250"
@@ -164,7 +164,7 @@
       "server_port": 988,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "AAAA",
-      "mtu": 4000
+      "mtu": 
     },
     {
       "type": "dns",
