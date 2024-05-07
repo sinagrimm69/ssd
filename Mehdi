@@ -1,5 +1,5 @@
 {
-  "remarks": "Taha ",
+  "remarks": " BPB bpb00.xxbkosi2pg1n6.... (IRCF Fragment)",
   "log": {
     "access": "",
     "error": "",
@@ -53,10 +53,10 @@
         "vnext": [
           {
             "address": "sinagrimm.myftp.org",
-            "port": 2053,
+            "port": 443,
             "users": [
               {
-                "id": "f50760ce-3a42-56d5-a094-7f41d32f8698",
+                "id": "adedf329-0585-4e7c-8135-fca42567d33c",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -72,7 +72,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "TAHaSADEGhi.waXUXiZy.wORKERs.dEV",
+          "serverName": "bPb00.xXbkosI2pG1n6.wOrkers.dev",
           "alpn": [
             "h2",
             "http/1.1"
@@ -81,9 +81,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "vless-ws/",
+          "path": "/7Sa8hsR7mGHxMx88",
           "headers": {
-            "Host": "TAHaSADEGhi.waXUXiZy.wORKERs.dEV"
+            "Host": "bPb00.xXbkosI2pG1n6.wOrkers.dev"
           }
         },
         "sockopt": {
